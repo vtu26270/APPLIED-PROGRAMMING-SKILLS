@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vtu26270/APPLIED-PROGRAMMING-SKILLS/tree/master/0283-move-zeroes) |
 | [0867-transpose-matrix](https://github.com/vtu26270/APPLIED-PROGRAMMING-SKILLS/tree/master/0867-transpose-matrix) |
 | [1314-matrix-block-sum](https://github.com/vtu26270/APPLIED-PROGRAMMING-SKILLS/tree/master/1314-matrix-block-sum) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu26270/APPLIED-PROGRAMMING-SKILLS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,4 +45,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1314-matrix-block-sum](https://github.com/vtu26270/APPLIED-PROGRAMMING-SKILLS/tree/master/1314-matrix-block-sum) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu26270/APPLIED-PROGRAMMING-SKILLS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+## Math
+|  |
+| ------- |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu26270/APPLIED-PROGRAMMING-SKILLS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 <!---LeetCode Topics End-->
