@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vtu26270/APPLIED-PROGRAMMING-SKILLS/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/vtu26270/APPLIED-PROGRAMMING-SKILLS/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/vtu26270/APPLIED-PROGRAMMING-SKILLS/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/vtu26270/APPLIED-PROGRAMMING-SKILLS/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/vtu26270/APPLIED-PROGRAMMING-SKILLS/tree/master/0867-transpose-matrix) |
 | [1314-matrix-block-sum](https://github.com/vtu26270/APPLIED-PROGRAMMING-SKILLS/tree/master/1314-matrix-block-sum) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu26270/APPLIED-PROGRAMMING-SKILLS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu26270/APPLIED-PROGRAMMING-SKILLS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/vtu26270/APPLIED-PROGRAMMING-SKILLS/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
